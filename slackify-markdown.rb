@@ -1,4 +1,4 @@
-class SlackifyMarkdownBin < Formula
+class SlackifyMarkdown < Formula
   version 'v0.1.6'
   desc "Convert Markdown into Slack's bastardized Markdown-like formatting"
   homepage "https://github.com/thundergolfer/slackify-markdown"
