@@ -14,7 +14,7 @@ class SlackifyMarkdown < Formula
   bottle :unneeded
 
   def install
-    bin.install "rg"
+    bin.install "slackify-markdown"
   end
 
   test do
