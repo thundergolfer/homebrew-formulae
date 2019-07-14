@@ -3,6 +3,11 @@
 
 ----
 
+### [`goodreads-sh`](https://github.com/thundergolfer/goodreads-sh)
+
+Simple CLI tool to track you and your friends' reading on Goodreads
+without using Goodreads's at times annoying web interface.
+
 ### [`slackify-markdown`](https://github.com/thundergolfer/slackify-markdown)
 
 Simple CLI tool to convert Markdown into Slack's bastardized Markdown-like formatting.
