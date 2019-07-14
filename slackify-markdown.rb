@@ -18,7 +18,7 @@ class SlackifyMarkdown < Formula
   end
 
   test do
-		system "#{bin}/goodreads"
+		system "#{bin}/slackify-markdown"
 	end
 end
 
